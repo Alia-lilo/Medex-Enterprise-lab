@@ -1,3 +1,6 @@
+> 📌 "This project is still ongoing — new parts will be added gradually as I continue to expand the infrastructure."
+> 
+
 # Medex Enterprise Network &amp; System Documentation
 
 Welcome to my Medex Enterprise Lab — a full network and system infrastructure simulation
