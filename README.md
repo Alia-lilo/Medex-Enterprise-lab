@@ -188,7 +188,7 @@ Later, you can double-check your work using tools, but your foundation will be m
 
 Note: `My real-world experience with company organizational structures is still limited, but this project was a great opportunity to practice practical design logic.`
 
-## shit
+
 | ✅ Lab Core Network IP Plan |
 |:-----|
 
@@ -270,11 +270,8 @@ I’ll briefly explain the plan, then we’ll continue together, step by step, f
 Inside EVE-NG:  
 We'll create **two cloud networks** (`VMnet2` and `VMnet5`) to ensure full connectivity between the EVE lab, the FGT VM, and the host.  
 
-📄 We'll go ahead according to the network diagram, following the next steps..  ⬇️
- 
- [Prepare the Network Environment](docs/Prepare_the_Network_Environment.md)  
+📄 Follow to the next steps.. ➡️  [Prepare the Network Environment](docs/Prepare_the_Network_Environment.md)  
  
 
-### To be continued in the additional documentation for more details...
-
+To be continued in the additional documentation for more details...  
 Check this : [TOC](/Table_of_Contents.md)  
