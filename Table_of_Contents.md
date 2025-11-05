@@ -1,0 +1,61 @@
+-  [/README.md file](README.md)  
+    -  Project Overview                
+    -  What is Medex?  
+    -  Lab Hardware Resources  
+     -  Project Software Stack & Tools  
+    -  download Resources  
+    -  IP Addressing & VLSM Design  
+    -  Network Topology Overview  
+    -  Lab Network Infrastructure Overview  
+
+-  [/docs](/docs) :  
+-  [Prepare_the_Network_Environment.md file](docs/2__Prepare_the_Network_Environment.md):                                        
+    -  Virtual Network Preparation  
+    -  Troubleshooting Network Connectivity Between FortiGate, EVE-NG, and Servers  
+    -  Modify Virtual Network Editor (VMware):  
+    -  Configure Host Network Settings:  
+    -  Deploy FortiGate:  
+    -  Helpful FortiGate Troubleshooting Commands  
+    -  For a full list of troubleshooting commands, see Troubleshooting Reference  
+    -  FGT Evaluation License  
+    -  Configuring EVE-NG Network Interfaces  
+    -  Helpful EVE Troubleshooting Commands  
+    -  Upload the Routers/Switches to EVE:  
+    -  EVE-NG Topology Setup  
+    -  Testing Uploaded Router/Switch Images  
+-  [FGT_Configuration.md file](/docs/FGT_Configuration.md)
+-  [Routing.md file](/docs/Routing.md):  
+    -  Why Routing is Important
+    -  EVE-NG Console  
+    -  Understanding the configuration line  
+    -  Routers (OSPF)  
+    -  Why I chose OSPF?  
+    -  Understanding OSPF Configuration Commands:  
+    -  Why do we add the Loopback interface to OSPF?  
+    -  R1, R2 Routing  
+    -  What if R2 goes down, and how to solve it?  
+    -  FortiGate Static Routes  
+    -  Route Summary Table                                   
+-  [Switches-License-Issue-Eve.md file](docs/Switches-License-Issue-Eve.md)         
+- [/EVE-NG Full Lab Deployment Folder](/EVE_Full_Lab_Deployment):  
+    - Before-configuration.md file
+    -  Cairo_Routers.md file
+    -  Cairo_Switches.md file
+    -  Giza_Routers.md file
+    -  Giza_Switches.md file
+    -  Linking-Cairo-Giza.md file
+ 
+- [/VMs Folder](/VMs)                                       
+     -  DC_Setup.md  
+     -  Additional_DC_Deployment.md  
+     -  DHCP_Setup.md  
+     -  GPO_Configuration_All.md  
+     -  WDS_Setup.md  
+     -  Exchange_Setup.md  
+     -  Kaspersky_Setup.md  
+     -  RHEL_Setup.md  
+     -  Zabbix_Setup.md  
+     -  Syslog_Setup.md  
+     -  Backup_Veeam.md                                                                        
+- [/Images](/images)  
+- [/Troubleshooting-Reference.md file](/Troubleshooting-Reference.md)  
