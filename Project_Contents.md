@@ -1,8 +1,10 @@
+### 🗃️ The full list of topics covered in this project, including folders, sections, titles, and detailed content
+
 -  [/README.md file](README.md)  
     -  Project Overview                
     -  What is Medex?  
     -  Lab Hardware Resources  
-     -  Project Software Stack & Tools  
+    - Project Software Stack & Tools  
     -  download Resources  
     -  IP Addressing & VLSM Design  
     -  Network Topology Overview  
@@ -56,6 +58,13 @@
      -  RHEL_Setup.md  
      -  Zabbix_Setup.md  
      -  Syslog_Setup.md  
-     -  Backup_Veeam.md                                                                        
+     -  Backup_Veeam.md
+     -  NTP.md
+     -  RMS.md
+     -  Automation_and_Scripting.md
+                                                                  
 - [/Images](/images)  
-- [/Troubleshooting-Reference.md file](/Troubleshooting-Reference.md)  
+- [/Troubleshooting-Reference.md file](/Troubleshooting-Reference.md)
+
+_This file will be updated regularly as development continues._
+
