@@ -1,4 +1,4 @@
-> 📌 "This project is still ongoing — new parts will be added gradually as I continue to expand the infrastructure."
+> ⭐ "This project is still ongoing — new parts will be added gradually as I continue to expand the infrastructure."
 > 
 
 # Medex Enterprise Network &amp; System Documentation
@@ -10,76 +10,103 @@ designed to practice real-world enterprise scenarios in a structured, step-by-st
 	
 <summary> 	
 
-# ➡️ <img alt="Static Badge" src="https://img.shields.io/badge/Table--of--Content-blue?style=for-the-badge&logo=Github&logoColor=blue&logoSize=auto&labelColor=black&color=blue">  :
+# <img alt="Static Badge" src="https://img.shields.io/badge/Project--Contents--%26--Progress-blue?style=for-the-badge&logo=Github&logoColor=blue&logoSize=auto&labelColor=black&color=blue">  :
+
 </summary>
 
-[Go to  Project Overview](https://github.com/Alia-lilo/Medex/blob/main/README.md#-project-overview)
+**📘 Status Legend**
 
-[Go to  What is Medex?](https://github.com/Alia-lilo/Medex/blob/main/README.md#--what-is-medex)
+✅ **Completed** - Fully configured and documented.   
+✔️ **In Progress** - Completed but actively adding updates with improvements.  
+⏳ **Not Started** - File created but not yet implemented.    
+🔜 **Pending Documentation** - Configured and tested, awaiting formal documentation.  
 
-[Go to  Lab Hardware Resources](https://github.com/Alia-lilo/Medex/blob/main/README.md#-lab-hardware-resources)
+**📃 README File**
 
-[Go to  Project Software Stack & Tools](https://github.com/Alia-lilo/Medex/blob/main/README.md#%E2%80%8D-project-software-stack--tools)
+[Project Overview](https://github.com/Alia-lilo/Medex/blob/main/README.md#-project-overview)
+
+[What is Medex?](https://github.com/Alia-lilo/Medex/blob/main/README.md#--what-is-medex)
+
+[Lab Hardware Resources](https://github.com/Alia-lilo/Medex/blob/main/README.md#-lab-hardware-resources)
+
+[Project Software Stack & Tools](https://github.com/Alia-lilo/Medex/blob/main/README.md#%E2%80%8D-project-software-stack--tools)
 
 [Download Resources](https://github.com/Alia-lilo/Medex/blob/main/README.md#you-can-download-from-here)
 
-[Go to  IP Addressing & VLSM Design](https://github.com/Alia-lilo/Medex/blob/main/README.md#ip-addressing--vlsm-design)
+[IP Addressing & VLSM Design](https://github.com/Alia-lilo/Medex/blob/main/README.md#ip-addressing--vlsm-design)
 
-[Go to  Network Topology Overview](https://github.com/Alia-lilo/Medex/blob/main/README.md#%EF%B8%8Fnetwork-topology-overview)
+[Network Topology Overview](https://github.com/Alia-lilo/Medex/blob/main/README.md#%EF%B8%8Fnetwork-topology-overview)
 
-[Go to  Lab Infrastructure](https://github.com/Alia-lilo/Medex/blob/main/README.md#-lab-infrastructure-wan-lan-vlans-branches)
+[Lab Infrastructure](https://github.com/Alia-lilo/Medex/blob/main/README.md#-lab-infrastructure-wan-lan-vlans-branches)
 
-[Go to  Virtualization Setup](https://github.com/Alia-lilo/Medex/blob/main/README.md#virtualization-setup)
+[Virtualization Setup](https://github.com/Alia-lilo/Medex/blob/main/README.md#virtualization-setup)
 	
-🗃️ Other Documentation
+🗃️ Other Documentation Folders
 
-[Go to  Full Lab Deployment in EVE-NG](EVE_Full_Lab_Deployment):
+[📂 /Full Lab Deployment in EVE-NG](EVE_Full_Lab_Deployment):
 
-- [Go to  do this Before configuration](EVE_Full_Lab_Deployment/Before-configuration.md)
+- [do this Before configuration](EVE_Full_Lab_Deployment/Before-configuration.md) ✅ Completed
 	
-- [Go to  Cairo Routers Configuration](EVE_Full_Lab_Deployment/Cairo_Routers.md)
+- [Cairo Routers Configuration](EVE_Full_Lab_Deployment/Cairo_Routers.md) 🔛 In Progress
 	
-- [Go to  Cairo Switches Configuration](EVE_Full_Lab_Deployment/Cairo_Switches.md)
+- [Cairo Switches Configuration](EVE_Full_Lab_Deployment/Cairo_Switches.md) 🔛 In Progress
 	
-- [Go to  Giza Routers Configuration](EVE_Full_Lab_Deployment/Giza_Routers.md)
+- [Giza Routers Configuration](EVE_Full_Lab_Deployment/Giza_Routers.md) 🔛 In Progress
 	
-- [Go to  Giza Switches Configuration](EVE_Full_Lab_Deployment/Giza_Switches.md)
+- [Giza Switches Configuration](EVE_Full_Lab_Deployment/Giza_Switches.md) 🔛 In Progress
 	
-- [Go to  How to Connect Cairo and Giza](EVE_Full_Lab_Deployment/Linking-Cairo-Giza.md)
+- [How to Connect Cairo and Giza](EVE_Full_Lab_Deployment/Linking-Cairo-Giza.md) 🔜 Pending Documentation
 
- [GO to  Prepare the Network Environment](docs/2__Prepare_the_Network_Environment.md)
+[📂 /docs](docs):
 
- [GO to  Solve Switches-License Problem](docs/Switches-License-Issue-Eve.md)
+ [Prepare the Network Environment](docs/2__Prepare_the_Network_Environment.md) ✅ Completed
 
-[Go to  FGT Configuration](docs/FGT_Configuration.md)
+ [Solve Switches-License Problem](docs/Switches-License-Issue-Eve.md) ✅ Completed
 
- [Go to Domain Controller Setup](VMs/DC_Setup.md)  
+ [FGT Configuration](docs/FGT_Configuration.md) 🔛 In Progress
 
-  [Go to Additional Domain Controller Deployment](VMs/Additional_DC_Deployment.md)  
+ [Routing](docs/Routing.md) 🔛 In Progress
+ 
+[📂 /Virtual Machines](VMs)                                       
 
-  [Go to DHCP Deployment](VMs/DHCP_Setup.md)  
+ [Domain Controller Setup](VMs/DC_Setup.md)  🔛 In Progress
 
- [Go to WDS Deployment](VMs/WDS_Setup.md)  
+ [Additional Domain Controller Deployment](VMs/Additional_DC_Deployment.md)  🔜 Pending Documentation
 
- [Go to GPO Configuration (All Policies)](VMs/GPO_Configuration_All.md)  
+ [DHCP Deployment](VMs/DHCP_Setup.md)  🔜 Pending Documentation
+
+ [WDS Deployment](VMs/WDS_Setup.md)  ⏳ Not Started
+
+ [GPO Configuration (All Policies)](VMs/GPO_Configuration_All.md)  🔜 Pending Documentation
 
 `This includes all GPOs applied across the environment — they are not covered in the DC documentation.`
 
- [Go to Kaspersky Deployment](VMs/Kaspersky_Setup.md)  
+ [Kaspersky Deployment](VMs/Kaspersky_Setup.md)  ⏳ Not Started
 
- [Go to Syslog Server Setup](VMs/Syslog_Setup.md)  
+ [Syslog Server Setup](VMs/Syslog_Setup.md)  ⏳ Not Started
 
- [Go to Zabbix Deployment](VMs/Zabbix_Setup.md)  
+ [Zabbix Deployment](VMs/Zabbix_Setup.md)  ⏳ Not Started
 
- [Go to RHEL Deployment](VMs/RHEL_Setup.md)  
+ [RHEL Deployment](VMs/RHEL_Setup.md)  ⏳ Not Started
 
- [Go to Exchange Deployment](VMs/Exchange_Setup.md)  
+ [Exchange Deployment](VMs/Exchange_Setup.md)  ⏳ Not Started
 
- [Go to Veeam Backup Configuration](VMs/Backup_Veeam.md)
+ [Automation and Scripting](VMs/Automation_and_Scripting.md)  ⏳ Not Started
+
+ [NTP]( VMs/NTP.md)  ⏳ Not Started
+
+ [RMS](VMs/RMS.md)  ⏳ Not Started
+
+ [Veeam Backup Configuration](VMs/Backup_Veeam.md) 🔜 Pending Documentation
+
+ **_This section will be updated regularly as development continues._**
+
+ </details>
+
+-----------
 
 ![Section Header Image](images/part-1-Introduction.jpg)
 
-</details>
 
 ## 📖 Project Overview
 
@@ -273,8 +300,9 @@ I’ll briefly explain the plan, then we’ll continue together, step by step, f
 Inside EVE-NG:  
 We'll create **two cloud networks** (`VMnet2` and `VMnet5`) to ensure full connectivity between the EVE lab, the FGT VM, and the host.  
 
-📄 Follow to the next steps.. ➡️  [Prepare the Network Environment](docs/Prepare_the_Network_Environment.md)  
- 
+📄 Follow to the next steps.. ➡️  [Prepare the Network Environment](docs/Prepare_the_Network_Environment.md)   
+To be continued in the additional documentation for more details...    
 
-To be continued in the additional documentation for more details...  
-Check this : [TOC](/Table_of_Contents.md)  
+View the full list of topics covered in this project, including section titles and detailed content. Check this : [Project Contents](/Project_Contents.md)  
+
+ 
