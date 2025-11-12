@@ -331,7 +331,7 @@ It’s a must-do step after every upload or path change, because it scans and fi
 
 Now, let’s open your browser and type the EVE IP address `172.16.18.140`
 
-![Medex Lab Topology](images/EVE_Topology.png).
+![Medex Lab Topology](/images/EVE_Topology.png).
 
 Create a new lab → click + Add Node If the images are selectable (not greyed out), it means the upload was successful.
 
