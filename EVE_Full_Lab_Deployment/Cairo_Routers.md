@@ -152,7 +152,5 @@ copy running-config startup-config # to save configuration
 - `show ip protocols` — routing protocols info
 - `show arp` — ARP table  
 
-## ospf output explanation
-
 
 ➡️ **Next Step:** [Cairo Switches Configuration](Cairo_Switches_Configuration.md)
